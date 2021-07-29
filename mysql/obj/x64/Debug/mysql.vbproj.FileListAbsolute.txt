@@ -1,0 +1,53 @@
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\mysql.exe.config
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\mysql.exe
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\mysql.pdb
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\mysql.xml
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\mysql.exe.CodeAnalysisLog.xml
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\mysql.exe.lastcodeanalysissucceeded
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\Guna.UI.dll
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\MySql.Data.dll
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\Renci.SshNet.dll
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\x64\Debug\MySql.Data.xml
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\x64\Debug\mysql.Form1.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\x64\Debug\mysql.Resources.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\x64\Debug\mysql.vbproj.GenerateResource.Cache
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\x64\Debug\mysql.exe
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\x64\Debug\mysql.xml
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\x64\Debug\mysql.pdb
+F:\Menu\mysql\mysql\bin\x64\Debug\mysql.exe.config
+F:\Menu\mysql\mysql\obj\x64\Debug\mysql.exe
+F:\Menu\mysql\mysql\obj\x64\Debug\mysql.xml
+F:\Menu\mysql\mysql\obj\x64\Debug\mysql.pdb
+F:\Menu\mysql\mysql\bin\x64\Debug\mysql.exe
+F:\Menu\mysql\mysql\bin\x64\Debug\mysql.pdb
+F:\Menu\mysql\mysql\bin\x64\Debug\mysql.xml
+F:\Menu\mysql\mysql\bin\x64\Debug\MySql.Data.dll
+F:\Menu\mysql\mysql\bin\x64\Debug\Google.Protobuf.dll
+F:\Menu\mysql\mysql\bin\x64\Debug\BouncyCastle.Crypto.dll
+F:\Menu\mysql\mysql\bin\x64\Debug\Ubiety.Dns.Core.dll
+F:\Menu\mysql\mysql\bin\x64\Debug\Renci.SshNet.dll
+F:\Menu\mysql\mysql\bin\x64\Debug\MySql.Data.xml
+F:\Menu\mysql\mysql\obj\x64\Debug\mysql.vbprojAssemblyReference.cache
+F:\Menu\mysql\mysql\obj\x64\Debug\mysql.Form1.resources
+F:\Menu\mysql\mysql\obj\x64\Debug\mysql.Resources.resources
+F:\Menu\mysql\mysql\obj\x64\Debug\mysql.vbproj.GenerateResource.cache
+F:\Menu\mysql\mysql\obj\x64\Debug\mysql.vbproj.CopyComplete
+E:\Visual Studio Old\mysql\mysql\bin\x64\Debug\mysql.exe.config
+E:\Visual Studio Old\mysql\mysql\obj\x64\Debug\mysql.exe
+E:\Visual Studio Old\mysql\mysql\obj\x64\Debug\mysql.xml
+E:\Visual Studio Old\mysql\mysql\obj\x64\Debug\mysql.pdb
+E:\Visual Studio Old\mysql\mysql\bin\x64\Debug\mysql.exe
+E:\Visual Studio Old\mysql\mysql\bin\x64\Debug\mysql.pdb
+E:\Visual Studio Old\mysql\mysql\bin\x64\Debug\mysql.xml
+E:\Visual Studio Old\mysql\mysql\bin\x64\Debug\MySql.Data.dll
+E:\Visual Studio Old\mysql\mysql\bin\x64\Debug\Google.Protobuf.dll
+E:\Visual Studio Old\mysql\mysql\bin\x64\Debug\BouncyCastle.Crypto.dll
+E:\Visual Studio Old\mysql\mysql\bin\x64\Debug\Ubiety.Dns.Core.dll
+E:\Visual Studio Old\mysql\mysql\bin\x64\Debug\Renci.SshNet.dll
+E:\Visual Studio Old\mysql\mysql\bin\x64\Debug\MySql.Data.xml
+E:\Visual Studio Old\mysql\mysql\obj\x64\Debug\mysql.vbprojResolveAssemblyReference.cache
+E:\Visual Studio Old\mysql\mysql\obj\x64\Debug\mysql.Form1.resources
+E:\Visual Studio Old\mysql\mysql\obj\x64\Debug\mysql.Resources.resources
+E:\Visual Studio Old\mysql\mysql\obj\x64\Debug\mysql.vbproj.GenerateResource.Cache

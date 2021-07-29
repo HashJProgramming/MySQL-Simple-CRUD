@@ -1,0 +1,13 @@
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\Debug\mysql.exe.config
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\Debug\mysql.exe
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\Debug\mysql.pdb
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\Debug\mysql.xml
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\Debug\Guna.UI.dll
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\bin\Debug\MySql.Data.dll
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\Debug\mysql.vbprojResolveAssemblyReference.cache
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\Debug\mysql.Form1.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\Debug\mysql.Resources.resources
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\Debug\mysql.vbproj.GenerateResource.Cache
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\Debug\mysql.exe
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\Debug\mysql.xml
+C:\Users\Joshua Ambalong\Desktop\Menu\mysql\mysql\obj\Debug\mysql.pdb
